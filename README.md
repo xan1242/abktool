@@ -27,6 +27,7 @@ Works with any Need for Speed game that utilizes the standard BNK format generat
 
 # Requirements
 This utility relies on Sound eXchange utility made by Electronic Arts and ONLY works on Windows and Wine.
+
 You must place SX.EXE next to the ABKTool binary.
 
 # Usage
