@@ -37,5 +37,7 @@ You must place SX.EXE next to the ABKTool binary.
 
 # Disclaimer
 Sound eXchange is Copyright (c) 2004 - 2020 Electronic Arts
+
 No harm was intended in making this utility towards EA and their intellectual properties.
+
 Distributed here is a copy that was publicly released by EA.
